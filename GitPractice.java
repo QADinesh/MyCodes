@@ -3,12 +3,16 @@ package com.gitpractice;
 public class GitPractice {
 	
 	private void tc1() {
-		System.out.println("tc1--->After edit");
+
+		System.out.println("tc1");
+		System.out.println("Branch2 modification");
+
 
 	}
 	private void tc2() {
 		System.out.println("tc2");
-		System.out.println("tc2--->After edit");
+
+		System.out.println("Branch2 modification");
 
 	}
 	private void tc3() {
