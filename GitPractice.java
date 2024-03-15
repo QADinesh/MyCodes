@@ -4,11 +4,12 @@ public class GitPractice {
 	
 	private void tc1() {
 		System.out.println("tc1");
+		System.out.println("Branch2 modification");
 
 	}
 	private void tc2() {
 		System.out.println("tc2");
-
+		System.out.println("Branch2 modification");
 	}
 	private void tc3() {
 		System.out.println("tc3");
