@@ -6,6 +6,7 @@ public class GitPractice {
 
 		System.out.println("tc1");
 		System.out.println("Branch2 modification");
+		System.out.println("Branch3 modification");
 
 
 	}
@@ -13,6 +14,7 @@ public class GitPractice {
 		System.out.println("tc2");
 
 		System.out.println("Branch2 modification");
+		System.out.println("Branch3 modification");
 
 	}
 	private void tc3() {
